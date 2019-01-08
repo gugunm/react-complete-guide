@@ -49,7 +49,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>Hi, I'm React App </h1>
+          <h1>Hi, Im React App </h1>
           {/* bind itu fungsinya buat ngelempar suatu value ke event handler, dan bisa buat ngerubah value state
           tapi sintaksnya bisa diubah jadi arrow function. ga usah pake bind lagi */}
           <button 
